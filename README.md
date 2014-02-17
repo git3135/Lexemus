@@ -1,4 +1,0 @@
-Lexemus
-=======
-
-Lexemus repository
